@@ -27,7 +27,6 @@ California-Housing-Price-Prediction/
 │   └── california_housing.ipynb
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ## 🛠️ Tech Stack
